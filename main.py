@@ -1,5 +1,5 @@
-from dotenv import load_dotenv
-load_dotenv() #env 파일 활용을 위함(open ai key 사용)
+#from dotenv import load_dotenv
+#load_dotenv() #env 파일 활용을 위함(open ai key 사용)
 
 # from langchain.llms import OpenAI
 
