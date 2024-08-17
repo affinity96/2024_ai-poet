@@ -19,7 +19,7 @@ import streamlit as st
 
 chat_model = ChatOpenAI()
 
-st.title("인공지능 시인 :sunglasses")
+st.title("인공지능 시인: Connected Spear")
 
 content = st.text_input("시의 주제를 제시해주세요! ")
 
